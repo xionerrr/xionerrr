@@ -1,2 +1,2 @@
-- 👋 Hi, I’m Vitaliy
-Front End Developer
+- 👋 Hi, I’m Vitaliy > 
+React Developer
