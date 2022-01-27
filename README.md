@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @xionerrr
-Just Front End Developer
+- 👋 Hi, I’m Vitaliy
+Front End Developer
