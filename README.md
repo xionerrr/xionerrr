@@ -1,7 +1,7 @@
 
 # React Developer
 
-## Technologies which I use:
+# Technologies which I use:
 
 ### Front-End
 
